@@ -40,6 +40,8 @@ dateCreated: 2021-05-23T16:58:48.431Z
 
 * [inv.cthd.icu](https://inv.cthd.icu/) 🇷🇸 - Source code/changes: https://gitlab.cthd.icu/cthd/invidious-custom
 
+* [yt.didw.to](https://yt.didw.to) 🇲🇩
+
 
 ### Tor Onion Services:
 * [c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion](http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion) 🇫🇮 (Onion of invidious.snopyta.org)
@@ -55,6 +57,8 @@ dateCreated: 2021-05-23T16:58:48.431Z
 * [osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion](http://osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion) 🇳🇱 (Onion of invidious.hub.ne.kr)
 
 *  [u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion](http://u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion) 🇺🇸 (Onion of inv.riverside.rocks)
+
+*  [7olr623w6xzana75bgvckarv4ulnexbv7vli2enhjm5scr3fna3xb5yd.onion](http://7olr623w6xzana75bgvckarv4ulnexbv7vli2enhjm5scr3fna3xb5yd.onion) 🇲🇩 (Onion of yt.didw.to)
 
 
 ## Rules to have your instance in this list:
